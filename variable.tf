@@ -1,6 +1,7 @@
 variable "bucket_name" {
   type        = string
   description = "enter your globallly unique bucket name"
+  default = play0786538
 
 }
 
